@@ -2,7 +2,7 @@
 
 Submitted by: **Gabriel Lucchesi**
 
-**Name of your app** is an app that changes the background color of the UI every time a user presses a button 
+**ColorChanger** is an app that changes the background color of the UI every time a user presses a button 
 
 Time spent: **1** hour spent in total
 
@@ -17,10 +17,10 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/d1IoZYs.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LiceCap
 
 ## App Brainstorming (Step 4)
 
